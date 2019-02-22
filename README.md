@@ -1,6 +1,6 @@
 # Sort <<导航目录>>
 
----
+
 >[1] [冒泡排序](https://github.com/t-dawei/sort/blob/master/code/bubble_sort.py)
 ---
 >[2] [插入排序](https://github.com/t-dawei/sort/blob/master/code/insert_sort.py)
